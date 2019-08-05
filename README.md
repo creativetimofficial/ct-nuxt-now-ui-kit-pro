@@ -3,7 +3,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-nuxt-now-ui-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-nuxt-now-ui-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-nuxt-now-ui-kit-pro.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-nuxt-now-ui-kit-pro/issues?q=is%3Aissue+is%3Aclosed) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![Product Thumbnail](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-now-ui-kit-pro/opt_nukp_react_thumbnail.jpg)
+![Product Thumbnail](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-now-ui-kit-pro/opt_nukp_nuxt_thumbnail.jpg)
 
 Nuxt Now UI Kit PRO is a premium Bootstrap 4 kit provided by Invision and Creative Tim. It is built over Nuxt, Vue.js and Bootstrap. It is a beautiful cross-platform UI kit featuring over 1000 components, 34 sections and 11 example pages.
 
@@ -71,12 +71,13 @@ Let us know your thoughts below. And good luck with development!
 [<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/html-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit-pro?ref=nukp-nuxt-readme)
 [<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/angular-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit-pro-angular?ref=nukp-nuxt-readme)
 [<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vue-now-ui-kit-pro?ref=nukp-nuxt-readme)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nuxt.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vue-now-ui-kit-pro?ref=nukp-nuxt-readme)
 [<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/nuxt-now-ui-kit-pro?ref=nukp-nuxt-readme)
 
 
-| HTML | Angular | Vue | React |
-| --- | --- | --- | --- |
-| [![Now UI Kit Pro HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-pro/opt_nukp_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro?ref=nukp-nuxt-readme) | [![Now UI Kit Pro Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-pro-angular/opt_nukp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro-angular?ref=nukp-nuxt-readme) | [![Vue Now UI Kit Pro](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-now-ui-kit-pro/vue-now-ui-kit-pro.jpg)](https://www.creative-tim.com/product/vue-now-ui-kit-pro?ref=nukp-nuxt-readme) | [![Nuxt Now UI Kit PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-now-ui-kit-pro/opt_nukp_react_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-now-ui-kit-pro?ref=nukp-nuxt-readme)
+| HTML | Angular | Vue | Nuxt | React |
+| --- | --- | --- | --- | --- |
+| [![Now UI Kit Pro HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-pro/opt_nukp_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro?ref=nukp-nuxt-readme) | [![Now UI Kit Pro Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-pro-angular/opt_nukp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro-angular?ref=nukp-nuxt-readme) | [![Vue Now UI Kit Pro](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-now-ui-kit-pro/vue-now-ui-kit-pro.jpg)](https://www.creative-tim.com/product/vue-now-ui-kit-pro?ref=nukp-nuxt-readme) | [![Nuxt Now UI Kit PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-now-ui-kit-pro/opt_nukp_nuxt_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-now-ui-kit-pro?ref=nukp-nuxt-readme) | [![Nuxt Now UI Kit PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-pro-react/opt_nukp_react_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro-react?ref=nukp-nuxt-readme)
 
 ## Demo
 
@@ -232,7 +233,6 @@ Within the download you'll find the following directories and files:
     |   |-- Logo.vue
     |   |-- Modal.vue
     |   |-- Pagination.vue
-    |   |-- Parallax.vue
     |   |-- Progress.vue
     |   |-- README.md
     |   |-- Slider.vue
