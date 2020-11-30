@@ -1,3 +1,9 @@
+<a href="https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=cm-readme-2020">
+<img border="0" alt="Creative Tim Cyber Monday Offer" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/cm-github-banner.jpg" >
+</a>
+
+
+
 # [Nuxt Now UI Kit PRO](https://demos.creative-tim.com/nuxt-now-ui-kit-pro?ref=nukp-nuxt-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Nuxt%20Now%20UI%20Kit%20PRO%20by%20Creative%20Tim%20https%3A//demos.creative-tim.com/nuxt-now-ui-kit-pro%20via%20%40CreativeTim)
 
 
