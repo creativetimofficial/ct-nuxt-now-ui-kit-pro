@@ -1,7 +1,7 @@
 # [Nuxt Now UI Kit PRO](https://demos.creative-tim.com/nuxt-now-ui-kit-pro?ref=nukp-nuxt-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Nuxt%20Now%20UI%20Kit%20PRO%20by%20Creative%20Tim%20https%3A//demos.creative-tim.com/nuxt-now-ui-kit-pro%20via%20%40CreativeTim)
 
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-nuxt-now-ui-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-nuxt-now-ui-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-nuxt-now-ui-kit-pro.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-nuxt-now-ui-kit-pro/issues?q=is%3Aissue+is%3Aclosed) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-1.2.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-nuxt-now-ui-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-nuxt-now-ui-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-nuxt-now-ui-kit-pro.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-nuxt-now-ui-kit-pro/issues?q=is%3Aissue+is%3Aclosed) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Thumbnail](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-now-ui-kit-pro/opt_nukp_nuxt_thumbnail.jpg)
 
